@@ -1,0 +1,22 @@
+body{
+    background-color: cornsilk;
+}
+.header{
+    text-align: center;
+}
+.portfolio{
+    width: 100%;
+}
+.info{
+    margin-left: 30px;
+    width: 60%;
+    float: left;
+}
+.image{
+    width: 30%;
+    float: right;
+}
+#img{
+    width: 300px;
+    height: 350px;
+}
